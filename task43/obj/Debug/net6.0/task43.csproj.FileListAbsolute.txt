@@ -1,0 +1,15 @@
+C:\Домашка\homework6\task43\obj\Debug\net6.0\task43.csproj.AssemblyReference.cache
+C:\Домашка\homework6\task43\obj\Debug\net6.0\task43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Домашка\homework6\task43\obj\Debug\net6.0\task43.AssemblyInfoInputs.cache
+C:\Домашка\homework6\task43\obj\Debug\net6.0\task43.AssemblyInfo.cs
+C:\Домашка\homework6\task43\obj\Debug\net6.0\task43.csproj.CoreCompileInputs.cache
+C:\Домашка\homework6\task43\bin\Debug\net6.0\task43.exe
+C:\Домашка\homework6\task43\bin\Debug\net6.0\task43.deps.json
+C:\Домашка\homework6\task43\bin\Debug\net6.0\task43.runtimeconfig.json
+C:\Домашка\homework6\task43\bin\Debug\net6.0\task43.dll
+C:\Домашка\homework6\task43\bin\Debug\net6.0\task43.pdb
+C:\Домашка\homework6\task43\obj\Debug\net6.0\task43.dll
+C:\Домашка\homework6\task43\obj\Debug\net6.0\refint\task43.dll
+C:\Домашка\homework6\task43\obj\Debug\net6.0\task43.pdb
+C:\Домашка\homework6\task43\obj\Debug\net6.0\task43.genruntimeconfig.cache
+C:\Домашка\homework6\task43\obj\Debug\net6.0\ref\task43.dll
